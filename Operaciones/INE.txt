@@ -1,0 +1,11 @@
+Datos de la INE:
+nombre: Ricardo
+apellido: Garcia Hernandez
+edad: 20
+sexo: Masculino
+domicilio: Villas Lak In
+CURP: GAHRASFDSF09213
+claveLector: 13544353453243
+Fecha: 08
+Vigencia: 24
+Seccion: 547
